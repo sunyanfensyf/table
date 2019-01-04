@@ -1,0 +1,49 @@
+.desc{
+    width:300px; 
+}
+.ant-table-body{
+    text-align: center;
+}
+.ant-table-body tr td:nth-child(2){
+    width:300px;
+    height: 180px;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+    display: inline-block;
+    line-height: 150px;
+}
+.desText{
+    display:block;
+}
+.ant-modal-content{
+    width: 600px;
+}
+.tabBtn{
+    width:120px;
+    height: 60px;
+    display: inline-block;
+    color:#fff;
+    background:blue;
+    border-radius: 10px;
+}
+.tagsBox{
+    width:300px;
+}
+.tagsBox i{
+    display: inline-block;
+    padding:10px;
+    border:1px solid skyblue;
+    border-radius: 5px;
+    margin:5px;
+    color:blue;
+    background: skyblue;
+}
+.search{
+    height:100px; margin-bottom:100px;
+}
+.search input{
+    width: 100%;
+    height: 100px;
+    display: block;
+}
